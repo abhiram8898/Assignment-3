@@ -11,6 +11,6 @@ p {
     color: black;
 }
 
-/* .welcome {
-    min-height: 40vh;
-} */
+.i {
+    border-radius: 20px !important;
+}
